@@ -1,0 +1,69 @@
+[
+  {
+    "file": "01-palm-path.jpg",
+    "width": 3840,
+    "height": 2160,
+    "author": "Tom Lorber",
+    "source": "https://unsplash.com/photos/EoavsGieFRE",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "download_url": "https://images.unsplash.com/photo-1704315354004-e3b7f8eff33e?fm=jpg&q=95&w=3840&fit=max",
+    "changes": "Widescreen crop 3840x2160, origin x=0 y=150 in downloaded photograph; JPEG quality 96. No AI processing, retouching or upscaling.",
+    "review": "Reviewed for composition, focus, and visible people.",
+    "scene": "beach-path"
+  },
+  {
+    "file": "02-quiet-cove.jpg",
+    "width": 3840,
+    "height": 2160,
+    "author": "Norbert Braun",
+    "source": "https://unsplash.com/photos/Jg3vgxzhH4o",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "download_url": "https://images.unsplash.com/photo-1668487103948-12387061d203?fm=jpg&q=95&w=3840&fit=max",
+    "changes": "Widescreen crop 3840x2160, origin x=0 y=100 in downloaded photograph; JPEG quality 96. No AI processing, retouching or upscaling.",
+    "review": "Reviewed for composition, focus, and visible people.",
+    "scene": "quiet-cove"
+  },
+  {
+    "file": "03-golden-palms.jpg",
+    "width": 3840,
+    "height": 2160,
+    "author": "Philipp Potocnik",
+    "source": "https://unsplash.com/photos/tHFwghQrMuM",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "download_url": "https://images.unsplash.com/photo-1579211975029-8aa27c32fa75?fm=jpg&q=95&w=3840&fit=max",
+    "changes": "Widescreen crop 3840x2160, origin x=0 y=1900 in downloaded photograph; JPEG quality 96. No AI processing, retouching or upscaling.",
+    "review": "Reviewed for composition, focus, and visible people.",
+    "scene": "sunrise-palms"
+  },
+  {
+    "file": "04-fishing-lights-night.jpg",
+    "width": 3840,
+    "height": 2160,
+    "author": "Philipp Potocnik",
+    "source": "https://unsplash.com/photos/ZujarB0yvbc",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "download_url": "https://images.unsplash.com/photo-1660884704814-cf2105a4d416?fm=jpg&q=95&w=3840&fit=max",
+    "changes": "Widescreen crop 3840x2160, origin x=0 y=400 in downloaded photograph; JPEG quality 96. No AI processing, retouching or upscaling.",
+    "review": "Visually reviewed for composition and visible people.",
+    "scene": "fishing-lights",
+    "notes": "Night view from Koh Phangan toward Koh Samui. Green illumination comes from fishing boat lights. Long exposure smooths the sea and produces short star trails."
+  },
+  {
+    "file": "05-fishing-boat-dusk.jpg",
+    "width": 3840,
+    "height": 2160,
+    "author": "Ecrinn Burgazl\u0131",
+    "source": "https://unsplash.com/photos/8FSHKZiByy8",
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license",
+    "download_url": "https://images.unsplash.com/photo-1771110566565-b335f94d2766?fm=jpg&q=95&w=3840&fit=max",
+    "changes": "Widescreen crop 3840x2160, origin x=0 y=100 in downloaded photograph; JPEG quality 96. No AI processing, retouching or upscaling.",
+    "review": "Visually reviewed for composition and visible people.",
+    "scene": "twilight-boat",
+    "notes": "Fishing boat silhouetted in late sunset / dusk light on Koh Phangan; this is not a nighttime photograph."
+  }
+]
